@@ -1,0 +1,100 @@
+>M
+Samsung Galaxy S21
+Exynos 2100
+4000 mAh
+FULL_HD
+AMOLED
+ANDROID
+8 GB RAM
+6.2 "
+sivá, ružová, biela, fialová
+639.90 €
+áno - dualSIM
+nie - microSD
+áno - rýchle nabíjanie
+áno - vodeodolnosť
+12 MP
+>N
+Lenovo Legion 5 Pro 16ACH6H
+Ryzen 7 5800H
+8000 mAh
+QUAD_HD
+IPS
+WINDOWS
+16 GB RAM
+16 "
+čierna
+1529.00 €
+GeForce RTX 3070
+áno - podsvietená klávesnica
+áno - herný
+>M
+Apple iPhone 12 Pro
+A14 Bionic
+2815 mAh
+FULL_HD
+OLED
+IOS
+6 GB RAM
+6.1 "
+sivá, strieborná, zlatá, modrá
+970.00 €
+nie - dualSIM
+nie - microSD
+áno - rýchle nabíjanie
+áno - vodeodolnosť
+12 MP
+>T
+Apple iPad Pro 2020
+A12Z
+7538 mAh
+QUAD_HD
+IPS
+iPadOS
+6 GB RAM
+11.0 "
+sivá, strieborná
+769.00 €
+áno - podpora hovorov
+>M
+Xiaomi Redmi Note 10 Pro
+Snapdragon 732G
+5020 mAh
+QUAD_HD
+AMOLED
+ANDROID
+6 GB RAM
+6.67 "
+sivá, modrá, bronzová
+298.90 €
+áno - dualSIM
+áno - microSD
+áno - rýchle nabíjanie
+nie - vodeodolnosť
+108 MP
+>N
+Acer Nitro 5
+Core i5 9300H
+5600 mAh
+FULL_HD
+IPS
+WINDOWS
+8 GB RAM
+15.6 "
+čierna
+849.00 €
+GeForce GTX 1650
+áno - podsvietená klávesnica
+áno - herný
+>T
+Samsung Galaxy Tab S7+
+Snapdragon 865+
+10090 mAh
+QUAD_HD
+AMOLED
+ANDROID
+8 GB RAM
+12.4 "
+čierna, strieborná, modrá, bronzová
+899.00 €
+áno - podpora hovorov
